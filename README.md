@@ -5,6 +5,7 @@ Updated Repositories:
 - 2019-Gravistar: https://github.com/HighlandersFRC/2019-Gravastar
 - 2019-Mirage: https://github.com/HighlandersFRC/2019-Mirage
 - 2018-Scymitar-V2: https://github.com/HighlandersFRC/2018-Symitar-V2
+***
 Documentation for the team as a whole, not specific to any one code repository.
 
 __This is not the code you are looking for, please move along.__
