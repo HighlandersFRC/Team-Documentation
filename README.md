@@ -25,4 +25,11 @@ Included in this repository is a robot project containing past code which is lik
 In terms of physical differences that matter for development, 2020-Chronostar is the only robot on this list that requires either TalonFX libraries or Spark Max libraries; every other robot only uses the TalonSRX libraries. Every updated repository requires NavX libraries and uses a NavX imu.
 
 
-
+## Setting up the Java Linter
+- Make sure you have `C:\Users\Public\wpilib\jdk\bin` added to your PATH.
+- Add the "Run on Save" extension to Code.
+- Go [here] (https://www.github.com/google/google-java-format), and grab the latest `.jar` file from the releases page.
+- Open your `settings.json` file, then type in the following: 
+```json
+""
+```
