@@ -28,7 +28,7 @@ In terms of physical differences that matter for development, 2020-Chronostar is
 ## Setting up the Java Linter
 - Make sure you have `C:\Users\Public\wpilib\jdk\bin` added to your PATH.
 - Add the "Run on Save" extension to Code.
-- Go [here] (https://www.github.com/google/google-java-format), and grab the latest `.jar` file from the releases page, then put it in the `C:\Users\Public\wpilib\2020\` directory.
+- Go [here](https://www.github.com/google/google-java-format), and grab the latest `.jar` file from the releases page, then put it in the `C:\Users\Public\wpilib\2020\` directory.
 - In Code, pen your `settings.json` file, then type in the following: 
 ```json
 "emeraldwalk.runonsave": {
